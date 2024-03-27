@@ -593,7 +593,7 @@ progress {
   margin-top: -1rem;
   margin-bottom: 1rem;
   font-size: 0.875em;
-  color: #6c757d;
+  color: #316da1;
 }
 .blockquote-footer::before {
   content: "— ";
@@ -11417,7 +11417,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(4, 23, 15, 0.9);
 }
 
 .intro {
